@@ -52,14 +52,10 @@ Esto implica:
 
 ---
 
-## 🎬 Animación Representativa  
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/71/12/df/7112dfa340bd72b757a68b0f1394e0dc.gif" width="450" alt="reciclaje sostenible">
 </p>  
 
 ---
-
-## 🌟 Frase Inspiradora  
 
 > “Un consumo responsable hoy, asegura un futuro sostenible mañana.” 🌍💚  
