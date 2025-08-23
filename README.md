@@ -62,23 +62,24 @@ Esto implica:
 
 <p align="center">
   <b>Conciencia ambiental 🌱</b><br>
-  <progress value="80" max="100"></progress> 80%
+  <img src="https://img.shields.io/badge/███████████████░░░-80%25-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Trabajo en equipo 🤝</b><br>
-  <progress value="90" max="100"></progress> 90%
+  <img src="https://img.shields.io/badge/█████████████████░-90%25-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Implementación tecnológica 💻</b><br>
-  <progress value="70" max="100"></progress> 70%
+  <img src="https://img.shields.io/badge/████████████░░░░░-70%25-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Impacto social 🌍</b><br>
-  <progress value="60" max="100"></progress> 60%
+  <img src="https://img.shields.io/badge/█████████░░░░░░░░-60%25-red?style=for-the-badge" />
 </p>
+
 
 ---
 
