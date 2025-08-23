@@ -10,7 +10,9 @@
 
 ---
 
-![equipo](https://img.shields.io/badge/👥_Equipo_de_trabajo-2196F3?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">👥 Equipo de Trabajo</h2>
+
+<div align="center">
 
 | Integrante | Carrera | Correo |  
 |------------|---------|--------|  
@@ -20,36 +22,43 @@
 | 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |  
 | 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |  
 
----
-
-![objetivo](https://img.shields.io/badge/🎯_Objetivo_del_Proyecto-4CAF50?style=for-the-badge&logoColor=white)
-
-Contribuir a la concientización sobre la **producción y el consumo responsables**, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.  
+</div>
 
 ---
 
-![ods12](https://img.shields.io/badge/📌_¿Qué_significa_la_ODS_12?-FBC02D?style=for-the-badge&logoColor=white)
+<h2 align="center">🎯 Objetivo del Proyecto</h2>
 
-El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestras formas de **consumir y producir sean sostenibles**.  
+<div align="center" style="background-color:#e8f5e9; padding:15px; border-radius:10px;">
+Contribuir a la concientización sobre la <b>producción y el consumo responsables</b>, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.  
+</div>
+
+---
+
+<h2 align="center">📌 ¿Qué significa la ODS 12?</h2>
+
+<div align="left" style="background-color:#fffde7; padding:15px; border-radius:10px;">
+El <b>ODS 12 – Producción y Consumo Responsables</b> busca garantizar que nuestras formas de <b>consumir y producir sean sostenibles</b>.  
 Esto implica:  
-
-- ⚡ **Usar eficientemente los recursos naturales**  
-- ♻️ **Reducir residuos** mediante reciclaje y reutilización  
-- 🌱 **Proteger los ecosistemas** y garantizar su disponibilidad para futuras generaciones  
-
----
-
-![motivacion](https://img.shields.io/badge/🤔_¿Por_qué_elegimos_la_ODS_12?-E91E63?style=for-the-badge&logoColor=white)
-
-1️⃣ Porque el **consumo excesivo y la sobreproducción** generan contaminación, cambio climático y pérdida de recursos.  
-
-2️⃣ Nos motiva a **reflexionar sobre nuestros hábitos diarios** y transformarlos hacia prácticas más sostenibles.  
-
-3️⃣ Está ligado a la **responsabilidad social y ambiental** que deben asumir tanto las personas como las empresas.  
-
-4️⃣ Tiene un **impacto transversal**, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la **Agenda 2030**.  
+ 
+- ⚡ Usar eficientemente los recursos naturales  
+- ♻️ Reducir residuos mediante reciclaje y reutilización  
+- 🌱 Proteger los ecosistemas y garantizar su disponibilidad para futuras generaciones  
+</div>
 
 ---
 
-> 🌍💚 *“Un consumo responsable hoy, asegura un futuro sostenible mañana.”*  
+<h2 align="center">🤔 ¿Por qué elegimos la ODS 12?</h2>
 
+<div align="left" style="background-color:#f3e5f5; padding:15px; border-radius:10px;">
+1️⃣ Porque el <b>consumo excesivo y la sobreproducción</b> generan contaminación, cambio climático y pérdida de recursos.  
+
+2️⃣ Nos motiva a <b>reflexionar sobre nuestros hábitos diarios</b> y transformarlos hacia prácticas más sostenibles.  
+
+3️⃣ Está ligado a la <b>responsabilidad social y ambiental</b> que deben asumir tanto las personas como las empresas.  
+
+4️⃣ Tiene un <b>impacto transversal</b>, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la <b>Agenda 2030</b>.  
+</div>
+
+---
+
+<h3 align="center">🌍💚 “Un consumo responsable hoy, asegura un futuro sostenible mañana.”</h3>
