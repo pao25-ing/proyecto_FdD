@@ -11,48 +11,70 @@
 
 ---
 
-> [!TIP] 👥 **Equipo de Trabajo**
-> Integrantes, carreras y correos de contacto.
+<div style="background:#E0F7FA; padding:15px; border-radius:10px; border-left:6px solid #00ACC1;">
+  
+## 👥 Equipo de Trabajo  
 
-| Integrante | Carrera | Correo |
-|------------|---------|--------|
-| ✨ **Paola Andrea Centeno Bazan** | 🖥️ Ingeniería Informática | [paola.centeno@upch.pe](mailto:paola.centeno@upch.pe) |
-| 🚀 **Juan Vidal Berrocal Ccapcha** | 💻 Ingeniería Informática | [juan.vidal@upch.pe](mailto:juan.vidal@upch.pe) |
-| 🌱 **Mónica Cristina Huaman Bernal** | 🌍 Ingeniería Ambiental | [monica.huaman.b@upch.pe](mailto:monica.huaman.b@upch.pe) |
-| 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |
-| 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |
+| Integrante | Carrera | Correo |  
+|------------|---------|--------|  
+| ✨ **Paola Andrea Centeno Bazan** | 🖥️ Ingeniería Informática | [paola.centeno@upch.pe](mailto:paola.centeno@upch.pe) |  
+| 🚀 **Juan Vidal Berrocal Ccapcha** | 💻 Ingeniería Informática | [juan.vidal@upch.pe](mailto:juan.vidal@upch.pe) |  
+| 🌱 **Mónica Cristina Huaman Bernal** | 🌍 Ingeniería Ambiental | [monica.huaman.b@upch.pe](mailto:monica.huaman.b@upch.pe) |  
+| 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |  
+| 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |  
 
----
-
-> [!IMPORTANT] 🎯 **Objetivo del Proyecto**
-> Concientizar sobre la **producción y el consumo responsables**, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.
+</div>
 
 ---
 
-> [!NOTE] 📌 **¿Qué significa la ODS 12?**
-> El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestras formas de **consumir y producir sean sostenibles**.
+<div style="background:#FFF3E0; padding:15px; border-radius:10px; border-left:6px solid #FB8C00;">
 
-- ⚡ **Uso eficiente de recursos naturales**  
-- ♻️ **Reducción de residuos** mediante reciclaje y reutilización  
-- 🌱 **Protección de ecosistemas** para las futuras generaciones
+## 🎯 Objetivo del Proyecto  
+
+Contribuir a la concientización sobre la **producción y el consumo responsables**, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.  
+
+</div>
 
 ---
 
-> [!WARNING] 🤔 **¿Por qué elegimos la ODS 12?**
-> Problemas actuales + impacto transversal + responsabilidad social y ambiental.
+<div style="background:#E8F5E9; padding:15px; border-radius:10px; border-left:6px solid #43A047;">
 
-1. El **consumo excesivo** y la **sobreproducción** generan contaminación y pérdida de recursos.  
-2. Invita a **mejorar hábitos diarios** hacia prácticas sostenibles.  
-3. Promueve la **responsabilidad** de personas y empresas.  
-4. Impacta en la **calidad de vida**, protege **ecosistemas** y aporta a la **Agenda 2030**.
+## 📌 ¿Qué significa la ODS 12?  
+
+El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestras formas de **consumir y producir sean sostenibles**.  
+
+- ⚡ **Usar eficientemente los recursos naturales**.  
+- ♻️ **Reducir residuos** mediante reciclaje y reutilización.  
+- 🌱 **Proteger los ecosistemas** y garantizar su disponibilidad para futuras generaciones.  
+
+</div>
+
+---
+
+<div style="background:#FCE4EC; padding:15px; border-radius:10px; border-left:6px solid #D81B60;">
+
+## 🤔 ¿Por qué elegimos la ODS 12?  
+
+1️⃣ Porque el **consumo excesivo y la sobreproducción** generan contaminación, cambio climático y pérdida de recursos.  
+
+2️⃣ Nos motiva a **reflexionar sobre nuestros hábitos diarios** y transformarlos hacia prácticas más sostenibles.  
+
+3️⃣ Está ligado a la **responsabilidad social y ambiental** que deben asumir tanto las personas como las empresas.  
+
+4️⃣ Tiene un **impacto transversal**, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la **Agenda 2030**.  
+
+</div>
 
 ---
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/71/12/df/7112dfa340bd72b757a68b0f1394e0dc.gif" width="450" alt="reciclaje sostenible">
-</p>
+</p>  
 
 ---
 
-> [!QUOTE]
-> “Un consumo responsable hoy, asegura un futuro sostenible mañana.” 🌍💚
+<div style="background:#E3F2FD; padding:15px; border-radius:10px; border-left:6px solid #1E88E5; font-style:italic; text-align:center;">
+  
+“Un consumo responsable hoy, asegura un futuro sostenible mañana.” 🌍💚  
+
+</div>
