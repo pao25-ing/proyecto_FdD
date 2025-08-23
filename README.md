@@ -11,6 +11,16 @@
 
 ---
 
+## 🏅 Badges del Proyecto  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ODS-12-green?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Equipo-Grupo%204-blue?style=for-the-badge&logo=people&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sostenibilidad-100%25-success?style=for-the-badge&logo=recycle&logoColor=white" />
+</p>
+
+---
+
 ## 👥 Equipo de Trabajo  
 
 | Integrante | Carrera | Correo |  
@@ -27,6 +37,11 @@
 
 Contribuir a la concientización sobre la **producción y el consumo responsables**, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.  
 
+✅ Educación ambiental  
+✅ Uso eficiente de recursos  
+✅ Fomento de reciclaje  
+✅ Responsabilidad social  
+
 ---
 
 ## 📌 ¿Qué significa la ODS 12?  
@@ -34,21 +49,20 @@ Contribuir a la concientización sobre la **producción y el consumo responsable
 El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestras formas de **consumir y producir sean sostenibles**.  
 Esto implica:  
 
-- ⚡ **Usar eficientemente los recursos naturales**.  
-- ♻️ **Reducir residuos** mediante reciclaje y reutilización.  
-- 🌱 **Proteger los ecosistemas** y garantizar su disponibilidad para futuras generaciones.  
+- ⚡ **Usar eficientemente los recursos naturales**  
+- ♻️ **Reducir residuos** mediante reciclaje y reutilización  
+- 🌱 **Proteger los ecosistemas** para las futuras generaciones  
 
 ---
 
-## 🤔 ¿Por qué elegimos la ODS 12?  
+## 📊 Avance del Proyecto  
 
-1️⃣ Porque el **consumo excesivo y la sobreproducción** generan contaminación, cambio climático y pérdida de recursos.  
-
-2️⃣ Nos motiva a **reflexionar sobre nuestros hábitos diarios** y transformarlos hacia prácticas más sostenibles.  
-
-3️⃣ Está ligado a la **responsabilidad social y ambiental** que deben asumir tanto las personas como las empresas.  
-
-4️⃣ Tiene un **impacto transversal**, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la **Agenda 2030**.  
+| Tarea | Estado |
+|-------|---------|
+| Investigación sobre ODS 12 | ✅ Completado |
+| Diseño de propuesta | 🟡 En proceso |
+| Implementación | 🔜 Próximamente |
+| Presentación final | 🔜 Próximamente |
 
 ---
 
@@ -58,29 +72,6 @@ Esto implica:
 
 ---
 
-## 📊 Progreso del Proyecto  
-
-<p align="center">
-  <b>Conciencia ambiental 🌱</b><br>
-  <img src="https://img.shields.io/badge/███████████████░░░-80%25-brightgreen?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Trabajo en equipo 🤝</b><br>
-  <img src="https://img.shields.io/badge/█████████████████░-90%25-blue?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Implementación tecnológica 💻</b><br>
-  <img src="https://img.shields.io/badge/████████████░░░░░-70%25-orange?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>Impacto social 🌍</b><br>
-  <img src="https://img.shields.io/badge/█████████░░░░░░░░-60%25-red?style=for-the-badge" />
-</p>
-
-
----
+## 💡 Frase motivadora  
 
 > “Un consumo responsable hoy, asegura un futuro sostenible mañana.” 🌍💚  
