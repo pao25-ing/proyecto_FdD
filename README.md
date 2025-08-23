@@ -11,9 +11,7 @@
 
 ---
 
-<div style="background:#E0F7FA; padding:15px; border-radius:10px; border-left:6px solid #00ACC1;">
-  
-## 👥 Equipo de Trabajo  
+![equipo](https://img.shields.io/badge/👥_Equipo_de_trabajo-2196F3?style=for-the-badge&logo=github&logoColor=white)
 
 | Integrante | Carrera | Correo |  
 |------------|---------|--------|  
@@ -23,37 +21,26 @@
 | 💡 **Jhosselyn Dayanna Enriquez Aliaga** | 🌱 Ingeniería Ambiental | [jhosselyn.enriquez@upch.pe](mailto:jhosselyn.enriquez@upch.pe) |  
 | 🔧 **Carlos Enriquez Mantilla Aguila** | 🖥️ Ingeniería Informática | [carlos.mantilla@upch.pe](mailto:carlos.mantilla@upch.pe) |  
 
-</div>
-
 ---
 
-<div style="background:#FFF3E0; padding:15px; border-radius:10px; border-left:6px solid #FB8C00;">
-
-## 🎯 Objetivo del Proyecto  
+![objetivo](https://img.shields.io/badge/🎯_Objetivo_del_Proyecto-4CAF50?style=for-the-badge&logoColor=white)
 
 Contribuir a la concientización sobre la **producción y el consumo responsables**, proponiendo acciones prácticas que reduzcan el impacto ambiental, fomenten el reciclaje y promuevan un estilo de vida sostenible.  
 
-</div>
-
 ---
 
-<div style="background:#E8F5E9; padding:15px; border-radius:10px; border-left:6px solid #43A047;">
-
-## 📌 ¿Qué significa la ODS 12?  
+![ods12](https://img.shields.io/badge/📌_¿Qué_significa_la_ODS_12?-FBC02D?style=for-the-badge&logoColor=white)
 
 El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestras formas de **consumir y producir sean sostenibles**.  
+Esto implica:  
 
-- ⚡ **Usar eficientemente los recursos naturales**.  
-- ♻️ **Reducir residuos** mediante reciclaje y reutilización.  
-- 🌱 **Proteger los ecosistemas** y garantizar su disponibilidad para futuras generaciones.  
-
-</div>
+- ⚡ **Usar eficientemente los recursos naturales**  
+- ♻️ **Reducir residuos** mediante reciclaje y reutilización  
+- 🌱 **Proteger los ecosistemas** y garantizar su disponibilidad para futuras generaciones  
 
 ---
 
-<div style="background:#FCE4EC; padding:15px; border-radius:10px; border-left:6px solid #D81B60;">
-
-## 🤔 ¿Por qué elegimos la ODS 12?  
+![motivacion](https://img.shields.io/badge/🤔_¿Por_qué_elegimos_la_ODS_12?-E91E63?style=for-the-badge&logoColor=white)
 
 1️⃣ Porque el **consumo excesivo y la sobreproducción** generan contaminación, cambio climático y pérdida de recursos.  
 
@@ -63,8 +50,6 @@ El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestr
 
 4️⃣ Tiene un **impacto transversal**, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la **Agenda 2030**.  
 
-</div>
-
 ---
 
 <p align="center">
@@ -73,8 +58,5 @@ El **ODS 12 – Producción y Consumo Responsables** busca garantizar que nuestr
 
 ---
 
-<div style="background:#E3F2FD; padding:15px; border-radius:10px; border-left:6px solid #1E88E5; font-style:italic; text-align:center;">
-  
-“Un consumo responsable hoy, asegura un futuro sostenible mañana.” 🌍💚  
+> 🌍💚 *“Un consumo responsable hoy, asegura un futuro sostenible mañana.”*  
 
-</div>
