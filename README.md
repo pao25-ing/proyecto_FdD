@@ -1,12 +1,11 @@
-<!-- ✨ Portada Animada con Shields y GIF -->
-<h1 align="center">🌍 Bienvenidos al Proyecto Grupo 4 - ODS 12 ✨</h1>
+<h1 align="center">🌍 Proyecto Grupo 4 - ODS 12 ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3CB371&center=true&vCenter=true&width=950&lines=🌱+Producción+y+Consumo+Responsables;💡+Innovando+para+un+futuro+sostenible;🤝+Trabajo+en+equipo+y+responsabilidad+social" alt="animacion bienvenida">
 </p>
 
 <p align="center">
-  <img src="https://github.com/JuanVidalx/Grupo-4_Fundamentos-de-dise-o/blob/05fad9449a39b9e1cc774faa3228613bc974876a/ods12.jpg" width="600" alt="ODS 12">
+  <img src="https://i.pinimg.com/originals/71/12/df/7112dfa340bd72b757a68b0f1394e0dc.gif" width="500" alt="reciclaje sostenible">
 </p>
 
 ---
@@ -49,12 +48,6 @@ Esto implica:
 3️⃣ Está ligado a la **responsabilidad social y ambiental** que deben asumir tanto las personas como las empresas.  
 
 4️⃣ Tiene un **impacto transversal**, pues mejora la calidad de vida, protege los ecosistemas y contribuye a otras metas de la **Agenda 2030**.  
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/71/12/df/7112dfa340bd72b757a68b0f1394e0dc.gif" width="450" alt="reciclaje sostenible">
-</p>  
 
 ---
 
